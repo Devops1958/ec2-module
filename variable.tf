@@ -8,9 +8,9 @@ variable "instanceType" {
 }
 variable "region_name" {
   #  default = "us-east-1"
-  
 }
- 
-variable "profile_name" {
+
+ variable "profile_name" {
+    
     default = "default"
 }
